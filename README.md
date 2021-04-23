@@ -5,4 +5,6 @@ It hooks into your image-library & allows you to select image/s to publish on yo
 # API Usage
 - Call The framework.
 ``` var varname = SappImageConfiguration() ```
+- Media type
+``` varname.mediaType = .photo ```
 
