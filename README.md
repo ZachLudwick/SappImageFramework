@@ -4,4 +4,5 @@ It hooks into your image-library & allows you to select image/s to publish on yo
 
 # API Usage
 - Call The framework.
-``` SappImagePicker.init() ```
+``` var varname = SappImageConfiguration()
+```
